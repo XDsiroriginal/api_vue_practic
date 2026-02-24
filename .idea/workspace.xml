@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a266795-1717-4d02-a973-52237cacb60c" name="Changes" comment="create product cart on api">
-      <change afterPath="$PROJECT_DIR$/my-app/src/views/login.vue" afterDir="false" />
+    <list default="true" id="1a266795-1717-4d02-a973-52237cacb60c" name="Changes" comment="create login logic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/components/ProductCatalog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/ProductCatalog.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/views/home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/views/home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/views/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/views/login.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771915405605</updated>
-      <workItem from="1771915406712" duration="10702000" />
+      <workItem from="1771915406712" duration="10817000" />
     </task>
     <task id="LOCAL-00001" summary="create ProductCatalog.vue and get api response">
       <option name="closed" value="true" />
@@ -103,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771921986832</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create login logic">
+      <option name="closed" value="true" />
+      <created>1771926299430</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1771926299430</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +118,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create ProductCatalog.vue and get api response" />
     <MESSAGE value="create product cart on api" />
-    <option name="LAST_COMMIT_MESSAGE" value="create product cart on api" />
+    <MESSAGE value="create login logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="create login logic" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>

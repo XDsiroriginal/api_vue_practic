@@ -14,6 +14,16 @@
       }
     },
 
+    methods: {
+      logout() {
+        localStorage.removeItem('auth_token');
+        localStorage.removeItem('user_login');
+        this.token = '';
+        this.login = '';
+        this.isAuthenticate = false;
+      },
+    },
+
     async mounted() {
       try {
         const response = await axios.get(`${process.env.VUE_APP_API_URL}/products`)
